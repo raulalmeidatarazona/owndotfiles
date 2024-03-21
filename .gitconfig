@@ -1,0 +1,11 @@
+[user]
+	name  = Raúl Almeida
+	email = personal@raulalmeida.com
+
+[core]
+	excludesfile = ~/.gitignore_global
+
+[commit]
+	template = ~/.gitmessage
+[init]
+	defaultBranch = main
